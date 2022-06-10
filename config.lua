@@ -18,7 +18,7 @@ Languages = {
         commandName = 'me',
         commandDescription = 'Display an action above your head.',
         commandSuggestion = {{ name = 'action', help = '"scratch his nose" for example.'}},
-        prefix = 'the person '
+        prefix = ' '
     },
     ['fr'] = {
         commandName = 'me',
